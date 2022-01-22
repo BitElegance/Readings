@@ -22,5 +22,5 @@ Avoid doing operations inside a loop
 Keeping Local Results
 	- Use local variables wherever possible.
 
-Refrences:
+References:
 	- https://wiki.python.org/moin/PythonSpeed/PerformanceTips#Local_Variables
